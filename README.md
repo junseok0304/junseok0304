@@ -15,7 +15,3 @@ Skills: RHINO JS / HTML / Kotlin
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junseok0304)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=junseok0304&show_icons=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/junseok0304)  
-
-![Profile views](https://gpvc.arturio.dev/junseok0304)  
