@@ -1,7 +1,7 @@
-### Hi there 👋, my name is junseok
+### Hi 👋, my name is junseok
 I'm looking for android studio STUDY
 
-Skills: RHINO JS / HTML / Kotlin
+Skills: RHINO JS / PYTHON / HTML / Kotlin
 
 - 🔭 I’m currently working on STUDY Kotlin 
 - 🌱 I’m currently learning android studio 
