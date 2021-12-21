@@ -1,8 +1,8 @@
 ### Hi 👋, my name is junseok
-안녕하세요, 제 이름은 윤준석 입니다.
+- 안녕하세요, 제 이름은 윤준석 입니다.
 
 I'm in the Department of Computer Science at university.
-저는 대학에서 컴퓨터공학을 공부중입니다.
+- 저는 대학에서 컴퓨터공학을 공부중입니다.
 
 Skills: RHINO JS / PYTHON / HTML / Kotlin
 
