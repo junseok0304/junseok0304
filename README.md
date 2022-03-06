@@ -6,10 +6,10 @@ I'm in the Department of Computer Science at university.
 
 Skills: RHINO JS / PYTHON / HTML / Kotlin
 
-- 🔭 I’m currently working on Website project
-- 웹사이트 만들기 프로젝트를 진행중입니다.
-- 🌱 I’m currently learning android studio
-- 최근에는 안드로이드 스튜디오를 공부중입니다.
+- 🔭 I’m currently working on C language study project
+- C언어 스터디 프로젝트를 준비중입니다.
+- 🌱 I’m currently learning C
+- 최근에는 C를 공부중입니다.
 - 📫 How to reach me: codingsans0304@gmail.com
 - 연락처 : codingsans0304@gmail.com
 
