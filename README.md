@@ -19,7 +19,7 @@ HTML5
 ### Software
 Adobe Premiere Pro / Adobe After Effects / Adobe Audition / Figma / Notion
 
-<img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat-square&logo=Adobe Premiere Pro&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe After Effects-9999FF?style=flat-square&logo=Adobe After Effects&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe Adobe Audition-9999FF?style=flat-square&logo=Adobe Audition&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/Adobe Premiere Pro-4848d6?style=flat-square&logo=Adobe Premiere Pro&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe After Effects-4848d6?style=flat-square&logo=Adobe After Effects&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe Adobe Audition-4848d6?style=flat-square&logo=Adobe Audition&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
 
 
 ### Studying
