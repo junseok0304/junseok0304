@@ -19,6 +19,8 @@ HTML5
 ### Software
 Adobe Premiere Pro / After Effect / Audition / Figma / Notion
 
+<img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat-square&logo=Adobe Premiere Pro&logoColor=white"/>
+
 ### Studying
 C lang / Python / Network
 
