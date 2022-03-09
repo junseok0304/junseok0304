@@ -1,10 +1,10 @@
-##🐣junseok🐣
-####컴퓨터공학 공부중
+## 🐣junseok🐣
+#### 컴퓨터공학 공부중
 
-##Skills
+## Skills
 RHINO JS / PYTHON / HTML / Kotlin
 
-##Studying
+## Studying
 C lang / Python / Network
 
 
