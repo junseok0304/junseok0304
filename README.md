@@ -1,6 +1,7 @@
 ## *🐣JunSeok🐣*
 #### 컴퓨터공학 공부중 
-![codingsans1 (2)](https://user-images.githubusercontent.com/83647215/157417357-88abaa8e-a3ae-4eeb-804b-d73a4424f901.png)코딩하는샌즈 대표
+![codingsans1 (2)](https://user-images.githubusercontent.com/83647215/157417357-88abaa8e-a3ae-4eeb-804b-d73a4424f901.png)
+##### 코딩하는샌즈 대표
 
 ---
 ## Skills
