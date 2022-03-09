@@ -4,6 +4,10 @@
 ##Skills
 RHINO JS / PYTHON / HTML / Kotlin
 
+##Studying
+C lang / Python / Network
+
+
 📫 codingsans0304@gmail.com
 
 
