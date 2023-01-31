@@ -36,3 +36,6 @@ C lang / Python / Network
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wicaduce)](https://solved.ac/wicaduce/)
+
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer)
