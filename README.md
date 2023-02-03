@@ -23,9 +23,10 @@ Adobe Premiere Pro / Adobe After Effects / Adobe Audition / Figma / Notion / Dis
 
 
 ### Studying
-C lang / Python / Network
+react / next.js
 
-<img src="https://camo.githubusercontent.com/db112bc37df2a398b00380416f5bd8baa44868d9bb941d2e53381bb7f8c0279b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d632d4138423943433f7374796c653d666f722d7468652d6261646765266c6f676f3d63266c6f676f436f6c6f723d666666"/> <img src="https://camo.githubusercontent.com/5e1ffb537fb7903df7a181ea5ee2101c44f697813518cd7ae16fd4afbdd02980/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3337373661623f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d666666"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
+
 ---
 
 ## contact via E-mail : 📫 codingsans0304@gmail.com
