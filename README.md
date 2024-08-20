@@ -1,7 +1,7 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=JUNSEOK.YUN&fontAlign=70&fontAlignY=40&color=gradient)
 
 ![SKHU ui_ 150pixel](https://github.com/user-attachments/assets/f1976ac1-7fa7-492e-b590-b2dd4645b70a)
-### IT융합자율학부 - 휴학 (2025.02 복학 예정)
+### IT융합자율학부 - 군 휴학 (2025.02 복학 예정)
 
 ---
 ## Skills
