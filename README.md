@@ -3,6 +3,12 @@
 ![SKHU ui_ 150pixel](https://github.com/user-attachments/assets/f1976ac1-7fa7-492e-b590-b2dd4645b70a)
 ### IT융합자율학부 - 군 휴학 (2025.02 복학 예정)
 
+## **Mobile Web/App Developer (Backend)**
+
+개발을 통한 더 나은 세상 만들기 (Make IT Better.)
+
+개발자 이지만 동시에 사용자이고 싶은 서비스를 만드는 개발자.
+
 ---
 ## Skills
 
