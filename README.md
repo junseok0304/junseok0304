@@ -1,7 +1,7 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=JUNSEOK.YUN&fontAlign=70&fontAlignY=40&color=gradient)
 
 ![SKHU ui_ 150pixel](https://github.com/user-attachments/assets/f1976ac1-7fa7-492e-b590-b2dd4645b70a)
-### IT융합자율학부 - 군 휴학 (2025.02 복학 예정)
+### IT융합자율학부 - (2022.03 ~ 재학)
 
 ## **Mobile Web/App Developer (Backend)**
 
@@ -35,10 +35,14 @@ PYTHONDER 스터디그룹 운영 (2022.03.22-2022.08.14)
 
 제 13회 성공회대학교 IT&미콘 경진대회 출품 (쿠름이) 장려상, 인기상 수상 (2022.09.03-2022.10.12)
 
+GDGonCampus SKHU 3기 SERVER MEMBER (2024.09 ~ 진행중)
+
+GDG 연합 아이디어톤 우수상 수상 (2024.11.01)
+
 
 ### 자격
 
-YBM COS PRO 2급 파이썬 민간자격 취득 - 2022.07
+YBM COS PRO 2급 파이썬 - 2022.07
 
 ---
 
