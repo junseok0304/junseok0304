@@ -18,17 +18,14 @@
 ## Skills
 
 ### Language
-JS / PYTHON / JAVA 
+Java / Python / JavaScripts
 <br>
-<img src="https://camo.githubusercontent.com/694920d2c95bec6dbd981ed0cf8619ffbbd180a72572beabc0964111fd70cb8a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d3030373339363f7374796c653d666f722d7468652d6261646765266c6f676f3d6f70656e6a646b266c6f676f436f6c6f723d7768697465"/>
 
 ### Frontend
-HTML5 / CSS
+HTML5 / CSS / NEXT.js
 
 ### Software
-Adobe Premiere Pro / Figma / Notion / Discord
-
-<img src="https://img.shields.io/badge/Adobe Premiere Pro-4848d6?style=flat-square&logo=Adobe Premiere Pro&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+Figma / Git / Notion / Slack / Jira
 
 ### 약력
 
