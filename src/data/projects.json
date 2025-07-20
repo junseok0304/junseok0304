@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "title": "첫 번째 프로젝트",
+        "description": "첫번째 프로젝트 내용을 작성",
+        "tags": ["WEB", "FRONT END", "TypeScript", "React", "TanStack Query", "TurboRepo"],
+        "image": "/images/farm-system-placeholder.png",
+        "date": "2025-01 - Present",
+        "link": "https://farm-system.example.com"
+    },
+    {
+        "id": 2,
+        "title": "두 번째 프로젝트",
+        "description": "두번째 프로젝트 내용을 작성",
+        "tags": ["WEB", "FRONT END", "TypeScript", "Next.js"],
+        "image": "/images/dev-blog-placeholder.png",
+        "date": "2024-11 - Present",
+        "link": "https://dev-blog.example.com"
+    },
+    {
+        "id": 3,
+        "title": "세 번째 프로젝트",
+        "description": "세번째 프로젝트 내용을 작성",
+        "tags": ["Chrome Extension", "TypeScript", "React"],
+        "image": "/images/ecampus-helper-placeholder.png",
+        "date": "2025-05 - Present",
+        "link": null
+    },
+    {
+        "id": 4,
+        "title": "또 다른 프로젝트 4",
+        "description": "네 번째 테스트 프로젝트의 설명입니다.",
+        "tags": ["Tag1", "Tag2"],
+        "image": "/images/project4-placeholder.png",
+        "date": "2024-03 - 2024-06",
+        "link": null
+    },
+    {
+        "id": 5,
+        "title": "새로운 프로젝트 5",
+        "description": "다섯 번째 프로젝트에 대한 간략한 내용입니다.",
+        "tags": ["Vue", "CSS"],
+        "image": "/images/project5-placeholder.png",
+        "date": "2023-10 - 2023-12",
+        "link": "https://new-project.example.com"
+    }
+]
