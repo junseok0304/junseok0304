@@ -1,19 +1,15 @@
 
 <img src="https://github.com/user-attachments/assets/786dedcc-0379-434f-977c-51104f664e95" width="279" />
 <img src="https://github.com/user-attachments/assets/795115fb-4e94-4ee8-bcc1-f20c63135855" width="500" />
-<h5><span style="color:#ff0000">🔥 커뮤니티 프로필 / <del>조유리가 귀여워서 넣었습니다.</del> </span></h5>
+<h5><span style="color:#ff0000">🔥 커뮤니티 프로필 </span></h5>
 <br>
 
- <img src="https://github.com/user-attachments/assets/f1976ac1-7fa7-492e-b590-b2dd4645b70a" width="100" /> <h2> 소프트웨어융합학부 - (2022.03 ~ 재학중)</h2>
-## **[BACKEND] Web/App Developer**
+ <img src="https://github.com/user-attachments/assets/f1976ac1-7fa7-492e-b590-b2dd4645b70a" width="100" /> <h2> 소프트웨어융합학부(심화전공) - (2022.03 ~ 재학중)</h2>
+**[BACKEND] Software Developer**
 
 개발을 통한 더 나은 세상 만들기 (Make IT Better.)
 
-개발자 이지만 동시에 사용자이고 싶은 서비스를 만드는 개발자.
-
-
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wicaduce)](https://solved.ac/wicaduce/)
+소프트웨어 엔지니어지만 나도 사용자가 되고 싶은 서비스를 만드는 사람입니다.
 
 # Skills
 
@@ -46,8 +42,11 @@ YBM COS PRO 2급 파이썬 - 2022.07
 자동차 면허 2종 보통 
 
 ---
-
 ## contact me via E-mail : 📫 devjunseok0304@gmail.com
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wicaduce)](https://solved.ac/wicaduce/)
+
+
 
 
 
