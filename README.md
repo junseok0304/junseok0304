@@ -15,36 +15,35 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wicaduce)](https://solved.ac/wicaduce/)
 
-## Skills
+# Skills
 
 ### Language
-Java / Python / JavaScripts
+Java / Spring / Python / JS 
 <br>
 
 ### Frontend
-HTML5 / CSS / NEXT.js
+html5 / css / react / NEXT.js
 
 ### Software
 Figma / Git / Notion / Slack / Jira
 
-### 약력
 
-네이버 부스트코스 코칭스터디 PY4E 2022 리드부스터 (2022.07.30-2022.08.31)
+### < 약력 >
 
-제 13회 성공회대학교 IT&미콘 경진대회 출품 (쿠름이) 장려상, 인기상 수상 (2022.09.03-2022.10.12)
+전) GDG on Campus SKHU 3기 SERVER MEMBER (2024.09 ~ )
 
-GDGonCampus SKHU 3기 SERVER MEMBER (2024.09 ~ 진행중)
+GDGoC 연합 아이디어톤 우수상 (2024.11.01), GDGoC DevWave Global 아이디어톤 대상 (2025.02.23)
 
-GDGoc 연합 아이디어톤 우수상 수상 (2024.11.01), GDGoc DevWave global 아이디어톤 대상 수상 (2025.02.23)
+현) 구름톤 유니브 9oormthonuniv 4기 SERVER 미르미 (2025.03 ~ 현재)
 
-구름톤 유니브 9oormthonuniv 4기 SERVER 미르미 (2025.03 ~ 진행중)
-
-GDG 25-26 4기 오거나이저 (2025.06 ~ 진행중)
+현) GDG on Campus SKHU 25-26 4기 Organizer 대표 (2025.06 ~ 현재)
 
 
-### 자격
+
+### < 자격 >
 
 YBM COS PRO 2급 파이썬 - 2022.07
+자동차 면허 2종 보통 
 
 ---
 
