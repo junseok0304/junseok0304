@@ -46,7 +46,6 @@ YBM COS PRO 2급 파이썬 - 2022.07
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wicaduce)](https://solved.ac/wicaduce/)
 
-백준 얼마 안해서 실버임,,, 곧 티어 올릴 예정 
 
 
 
