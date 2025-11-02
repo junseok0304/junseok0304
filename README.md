@@ -1,54 +1,53 @@
 
 <img src="https://github.com/user-attachments/assets/786dedcc-0379-434f-977c-51104f664e95" width="279" />
 <img src="https://github.com/user-attachments/assets/795115fb-4e94-4ee8-bcc1-f20c63135855" width="500" />
-<h5><span style="color:#ff0000">🔥 커뮤니티 프로필 / <del>조유리가 귀여워서 넣었습니다.</del> </span></h5>
+<h5><span style="color:#ff0000">🔥 커뮤니티 프로필 / 오른쪽은 아이즈원 조유리입니다,, </span></h5>
 <br>
 
- <img src="https://github.com/user-attachments/assets/f1976ac1-7fa7-492e-b590-b2dd4645b70a" width="100" /> <h2> 소프트웨어융합학부 - (2022.03 ~ 재학중)</h2>
-## **[BACKEND] Web/App Developer**
+ <img src="https://github.com/user-attachments/assets/f1976ac1-7fa7-492e-b590-b2dd4645b70a" width="100" /> <h2> 소프트웨어융합학부(심화전공) - (2022.03 ~ 재학중)</h2>
+**[BACKEND] Software Developer**
 
 개발을 통한 더 나은 세상 만들기 (Make IT Better.)
 
-개발자 이지만 동시에 사용자이고 싶은 서비스를 만드는 개발자.
+소프트웨어 엔지니어지만 나도 사용자가 되고 싶은 서비스를 만드는 사람입니다.
 
-
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wicaduce)](https://solved.ac/wicaduce/)
-
-## Skills
+# Skills
 
 ### Language
-Java / Python / JavaScripts
+Java / Spring / Python / JS 
 <br>
 
 ### Frontend
-HTML5 / CSS / NEXT.js
+html5 / css / react / NEXT.js
 
 ### Software
 Figma / Git / Notion / Slack / Jira
 
-### 약력
 
-네이버 부스트코스 코칭스터디 PY4E 2022 리드부스터 (2022.07.30-2022.08.31)
+### < 약력 >
 
-제 13회 성공회대학교 IT&미콘 경진대회 출품 (쿠름이) 장려상, 인기상 수상 (2022.09.03-2022.10.12)
+전) GDG on Campus SKHU 3기 SERVER MEMBER (2024.09 ~ )
 
-GDGonCampus SKHU 3기 SERVER MEMBER (2024.09 ~ 진행중)
+GDGoC 연합 아이디어톤 우수상 (2024.11.01), GDGoC DevWave Global 아이디어톤 대상 (2025.02.23)
 
-GDGoc 연합 아이디어톤 우수상 수상 (2024.11.01), GDGoc DevWave global 아이디어톤 대상 수상 (2025.02.23)
+현) 구름톤 유니브 9oormthonuniv 4기 SERVER 미르미 (2025.03 ~ 현재)
 
-구름톤 유니브 9oormthonuniv 4기 SERVER 미르미 (2025.03 ~ 진행중)
-
-GDG 25-26 4기 오거나이저 (2025.06 ~ 진행중)
+현) GDG on Campus SKHU 25-26 4기 Organizer 대표 (2025.06 ~ 현재)
 
 
-### 자격
+
+### < 자격 >
 
 YBM COS PRO 2급 파이썬 - 2022.07
+자동차 면허 2종 보통 
 
 ---
-
 ## contact me via E-mail : 📫 devjunseok0304@gmail.com
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wicaduce)](https://solved.ac/wicaduce/)
+
+백준 얼마 안해서 실버임,,, 곧 티어 올릴 예정 
+
 
 
 
