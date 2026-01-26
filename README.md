@@ -45,9 +45,3 @@ YBM COS PRO 2급 파이썬 - 2022.07
 ## contact me via E-mail : 📫 devjunseok0304@gmail.com
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wicaduce)](https://solved.ac/wicaduce/)
-
-
-
-
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer)
