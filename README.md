@@ -18,10 +18,10 @@ Java / Spring / Python / JS
 <br>
 
 ### Frontend
-html5 / css / react / NEXT.js
+html5 / css / React / NEXT.js / Vite / Vue / Kotlin
 
 ### Software
-Figma / Git / Notion / Slack / Jira
+Figma / Git / Notion / Slack / Jira 
 
 
 ### < 약력 >
@@ -30,9 +30,9 @@ Figma / Git / Notion / Slack / Jira
 
 GDGoC 연합 아이디어톤 우수상 (2024.11.01), GDGoC DevWave Global 아이디어톤 대상 (2025.02.23)
 
-현) 구름톤 유니브 9oormthonuniv 4기 SERVER 미르미 (2025.03 ~ 현재)
+구름톤 유니브 9oormthonuniv 4기 SERVER 미르미 (2025.03 ~ 2025.12)
 
-현) GDG on Campus SKHU 25-26 4기 Organizer 대표 (2025.06 ~ 현재)
+GDG on Campus SKHU 25-26 4기 Organizer 대표 (2025.06 ~ 2026.07)
 
 
 
@@ -40,8 +40,7 @@ GDGoC 연합 아이디어톤 우수상 (2024.11.01), GDGoC DevWave Global 아이
 
 YBM COS PRO 2급 파이썬 - 2022.07
 자동차 면허 2종 보통 
+SQLD 자격증
 
 ---
 ## contact me via E-mail : 📫 devjunseok0304@gmail.com
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wicaduce)](https://solved.ac/wicaduce/)
