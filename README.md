@@ -45,8 +45,8 @@ GDGoC 연합 아이디어톤 우수상 (2024.11.01), GDGoC DevWave Global 아이
 ### < 자격 >
 
 YBM COS PRO 2급 파이썬 - 2022.07
+
 자동차 면허 2종 보통 
-SQLD 자격증
 
 ---
 ## contact me via E-mail : 📫 devjunseok0304@gmail.com
