@@ -26,6 +26,8 @@ Figma / Git / Notion / Slack / Jira
 
 ### < 약력 >
 
+현) DND 15기 Backend Developer (2026.07 ~ )
+
 현) S.owl 교내 개발자동아리 소속 부원
 
 전) GDG on Campus SKHU 3기 SERVER MEMBER (2024.09 ~ )
