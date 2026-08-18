@@ -26,14 +26,18 @@ Figma / Git / Notion / Slack / Jira
 
 ### < 약력 >
 
+현) S.owl 교내 개발자동아리 소속 부원
+
 전) GDG on Campus SKHU 3기 SERVER MEMBER (2024.09 ~ )
+
+전) 구름톤 유니브 9oormthonuniv 4기 SERVER 미르미 (2025.03 ~ 2025.12)
+
+전) GDG on Campus SKHU 25-26 4기 Organizer 대표 (2025.06 ~ 2026.07)
 
 GDGoC 연합 아이디어톤 우수상 (2024.11.01), GDGoC DevWave Global 아이디어톤 대상 (2025.02.23)
 
-구름톤 유니브 9oormthonuniv 4기 SERVER 미르미 (2025.03 ~ 2025.12)
 
-GDG on Campus SKHU 25-26 4기 Organizer 대표 (2025.06 ~ 2026.07)
-
+<br>
 
 
 ### < 자격 >
